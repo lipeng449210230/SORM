@@ -63,5 +63,8 @@ public class Emp {
 		this.age = age;
 		this.deptid = deptid;
 	}
+	public Emp() {
+		super();
+	}
 	
 }
